@@ -8,7 +8,7 @@ The contest guidelines goes like this. The goal is to put on your <a href="https
 What we're doing here is a form of <a href="https://en.wikipedia.org/wiki/SEO_contest">SEO contest</a>. While you have great latitude in how you approach this problem, you are not allowed to engage in any unethical or illegal behavior. Please read the discussion of <a href="https://en.wikipedia.org/wiki/Search_engine_optimization#White_hat_versus_black_hat_techniques">"white hat"</a>   versus <a href="https://en.wikipedia.org/wiki/Search_engine_optimization#White_hat_versus_black_hat_techniques">"black hat"</a> <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">SEO</a> over at <a href="https://www.wikipedia.org/">Wikipedia</a>.
 
 
-Rules of the - <a href="https://github.com/harika5/sajfd hfafbjhd">"sajfd hfafbjhd"</a> SEO contest :
+Rules of the - <a href="http://people.tamu.edu/~harikaraju.g/">"sajfd hfafbjhd"</a> SEO contest :
 
 1. Somewhere in the page (possibly in the non-viewable source html) you must include your name or some other way for us to identify you.
 Your target page may only be a <a href="https://www.tamu.edu/">TAMU</a> student page, a page on your own webserver, a page on a standard blog platform (e.g., <a href="https://www.wordpress.com/">Wordpress</a>), or some other primarily user-controlled page
@@ -19,11 +19,13 @@ Your target page may only be a <a href="https://www.tamu.edu/">TAMU</a> student 
 6. If you have concerns/questions/clarifications, please post on <a href="https://piazza.com">Piazza</a> and we will discuss there.
 
 
-Other top resources for knowing more on the topic of <a href="https://github.com/harika5/sajfd hfafbjhd">"sajfd hfafbjhd"</a> are:
+Other top resources for knowing more on the topic of <a href="http://people.tamu.edu/~harikaraju.g/">"sajfd hfafbjhd"</a> are:
 
-* The top search result page is <a href="http://people.tamu.edu/~himgupt2/">this</a>. It gives a really nice <a href="https://en.wikipedia.org/wiki/User_interface">UI</a> to talk about the topic <a href="https://github.com/harika5/sajfd hfafbjhd">"sajfd-hfafbjhd"</a>
+* The top search result page is <a href="http://people.tamu.edu/~himgupt2/">this</a>. It gives a really nice <a href="https://en.wikipedia.org/wiki/User_interface">UI</a> to talk about the topic <a href="http://people.tamu.edu/~harikaraju.g/">"sajfd hfafbjhd"</a>
 * On second again comes a <a href="http://people.tamu.edu/~harishk1908/">page</a> created as <a href="http://people.tamu.edu/">TAMU student page</a>. This clearly shows that the reputation of the domain helps a lot.
 * Following on the same note we have another <a href="http://people.tamu.edu/~sswt/">tamu people's page</a> throughing more light on this new search query.
 * Then we can also find couple of <a href="https://medium.com/@nitijain305/sajfd-hfafbjhd-9c53dce4eb82">useful information</a> and <a href="https://medium.com/@narulavansh3/top-10-results-for-sajfd-hfafbjhd-on-google-and-medium-be7b6676114f">summarized notes</a> about this topic on famous blogging website <a href="https://medium.com/">medium</a>. 
 * There is another <a href="https://github.com/Prakharm007/sajfd-hfafbjhd">github repository</a> explaining more on this.
 * We also got a couple of <a href="https://www.youtube.com/">youtube</a> videos showing some visualization on this infromation retrieval task.
+
+Please visit <a href="http://people.tamu.edu/~harikaraju.g/">this page</a>, <a href="https://github.com/harika5/sajfd-hfafbjhd">Github repository</a> and <a href="http://people.tamu.edu/~harikaraju.g/">medium blog post</a> for more interesting info on this topic! 
